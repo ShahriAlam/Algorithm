@@ -7,7 +7,7 @@ A collection of different **Data Structures and Algorithms** implemented in **C+
 - Merge Sort
 - Quick Sort
 - Breadth First Search (BFS)
-- Depth First SEarch (DFS)
+- Depth First Search (DFS)
 - More algorithms will be added over time.
 
 ## Language
