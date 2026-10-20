@@ -8,6 +8,7 @@ A collection of different **Data Structures and Algorithms** implemented in **C+
 - Quick Sort
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
+- Topological Sort
 - More algorithms will be added over time.
 
 ## Language
