@@ -9,6 +9,7 @@ A collection of different **Data Structures and Algorithms** implemented in **C+
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 - Topological Sort
+- Warshall's Algorithm
 - More algorithms will be added over time.
 
 ## Language
