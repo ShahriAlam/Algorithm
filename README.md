@@ -10,6 +10,7 @@ A collection of different **Data Structures and Algorithms** implemented in **C+
 - Depth First Search (DFS)
 - Topological Sort
 - Warshall's Algorithm
+- Kruskal's Algorithm 
 - More algorithms will be added over time.
 
 ## Language
